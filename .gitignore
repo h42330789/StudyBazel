@@ -47,6 +47,16 @@ DerivedData/
 # Carthage/Checkouts
 
 Carthage/Build/
+# 生成的产物
+bazel-bin
+bazel-bin/
+bazel-out
+bazel-out/
+bazel-StudyBazel
+bazel-StudyBazel/
+bazel-testlogs
+bazel-testlogs/
+HelloOC/My_helloOC.xcodeproj
 
 # fastlane
 #
